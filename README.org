@@ -1,0 +1,10 @@
+* cl-moneris
+
+Common Lisp interface to the Moneris payment/credit card processing HTTPS POST API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vsedach/cl-moneris.git   |
+| commit  | 422b610  |
+| systems | cl-moneris |
+|---------+-------------------------------------------|
+
